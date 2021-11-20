@@ -1,0 +1,3 @@
+[submodule "Todo-List-Angular"]
+	path = Todo-List-Angular
+	url = git@github.com:PetersonFonsec/Todo-List-Angular.git
