@@ -1,3 +1,6 @@
 [submodule "Todo-List-Angular"]
 	path = Todo-List-Angular
 	url = git@github.com:PetersonFonsec/Todo-List-Angular.git
+[submodule "Todo-List-React"]
+	path = Todo-List-React
+	url = git@github.com:PetersonFonsec/Todo-List-React.git
